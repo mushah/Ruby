@@ -5,7 +5,7 @@ class Ex5
   weight = 160 # lbs
   eyes = 'Brown'
   teeth = 'White'
-  hair = 'Black'
+  hair = 'Blacks'
 
   puts "Let's talk about #{name}."
   puts "He's #{height} inches tall."
